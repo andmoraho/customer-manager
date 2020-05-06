@@ -2,7 +2,7 @@
   "name": "customer-manager",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": "andmoraho",
   "license": "MIT",
   "scripts": {
     "build": "tsc -p tsconfig.build.json",
